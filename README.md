@@ -1,4 +1,4 @@
-# Banggood Clone
+# Login authentication (React context provider)
 
 A basic login authentication toggle using context-api and <a href="https://reqres.in/">reqres.in</a>.
 <div style="display: flex; alignItems: center">
